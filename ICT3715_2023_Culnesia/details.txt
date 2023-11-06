@@ -1,0 +1,18 @@
+000webhost
+username: 		theo.makhado@gmail.com
+password:  		Ndouvhada1?
+URL: 			https://51152177-ict3715.000webhostapp.com/
+
+GITHUB
+username:		theo.makhado@gmail.com
+password:		Oneahomak1?
+URL: 			https://github.com/Theomakhado/ICT3715_Project
+
+DB Name 		id20293301_ict3715_2022				
+DB User 		id20293301_theomakhado			
+DB Host 		localhost	 
+file and sql 
+password		bVzczJTKlNBU&Hd^nL4y
+
+Google Drive
+https://drive.google.com/file/d/1ZSc5gfYFGEoBa4hTPe4CoY5XK0Rl1Yhj/view?usp=share_link
